@@ -3,7 +3,7 @@
 Next-Generation Amphibious Search, Rescue & Command Platform
 
 <img src="images/boat.gif">
-![Alternative text description]("images/boat.gif")
+<!-- ![Alternative text description]("images/boat.gif") -->
 
 ## Overview
 When severe monsoon floods strike, traditional rescue equipment often fails—boats are easily damaged by hidden underwater debris, and heavy trucks get permanently stuck in deep mud.
